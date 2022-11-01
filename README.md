@@ -1,2 +1,5 @@
-# ChOvObCR
-Repository for a of childhood overweight and obesity in Costa Rica.
+# Bayesian Spatial Modeling of Childhood Overweight and Obesity Prevalence in Costa Rica
+
+This repository contains data* and code for this research
+
+*Census data is not public but is available from the authors with permission of Health Ministry of Costa Rica.
